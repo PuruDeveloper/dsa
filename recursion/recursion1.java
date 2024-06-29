@@ -9,7 +9,7 @@ public class recursion1 {
         }
         System.out.println(n);
         func(--n);
-    }
+    }chal
 
     public static void main(String ars[]) {
         Scanner sc = new Scanner(System.in);
